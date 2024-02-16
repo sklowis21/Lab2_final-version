@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "My home": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.54762666615332,
+                    38.64592391259515
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Elementary school": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.54969774453649,
+                    38.64502717717127
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Middle school": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.50370662476094,
+                    38.66825613088449
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "High school": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.50461630523553,
+                    38.66471447394679
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "U of T": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.39550494156227,
+                    43.66259401092313
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Home now": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.40301183029337,
+                    43.663951018525324
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NGA": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.20967242846727,
+                    38.64767143270967
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        }
+    ]
+}

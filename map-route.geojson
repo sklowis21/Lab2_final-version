@@ -1,0 +1,9 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {"type": "Feature",
+            "properties": {"Airplane trip": ""},
+            "geometry": {"coordinates": [[-90.36966444444235,38.75020347255469],[-79.62997968787802,43.67819325481025]],
+                "type": "LineString"},
+            "id": 0}]
+}
